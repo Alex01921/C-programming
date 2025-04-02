@@ -40,3 +40,10 @@ int main()
     fclose(file);
     return 0;
 }
+/*
+In student_names.txt file
+Alex
+John
+Bob
+Don
+*/
