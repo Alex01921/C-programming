@@ -23,6 +23,5 @@ void main() {
         printf("Zero");
     }
 
-    printf("\n\nCoded by Gaurav Dhakal(M2,15)\n\n");
     getch();
 }
