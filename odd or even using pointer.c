@@ -14,7 +14,6 @@ void main() {
         printf("Even");
     else
         printf("Odd");
-    
-    printf("\n\nCoded by Gaurav Dhakal(M2,15)\n\n");
+  
     getch();
 }
